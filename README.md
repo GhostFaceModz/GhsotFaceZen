@@ -1,4 +1,4 @@
-# GhsotFaceZen
+# GhostFaceZen
 
 
 
